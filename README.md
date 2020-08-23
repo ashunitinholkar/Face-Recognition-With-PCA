@@ -7,8 +7,7 @@ Principal Component Analysis(PCA)
 
 PCA is nothing but a dimensionality reduction of given data.
 It simply project given data in some direction in order to get maximum variance.
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ashunitinholkar/Face-Recognition-With-PCA/tree/master/Face%20Recognition%20with%20PCA/images/pca1.png?raw=true)
 pca1.png
 ##################################################################################################################################################################
 Dataset and its Preparation
