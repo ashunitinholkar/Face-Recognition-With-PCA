@@ -7,6 +7,8 @@ Principal Component Analysis(PCA)
 
 PCA is nothing but a dimensionality reduction of given data.
 It simply project given data in some direction in order to get maximum variance.
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 pca1.png
 ##################################################################################################################################################################
 Dataset and its Preparation
