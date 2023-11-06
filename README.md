@@ -2,7 +2,7 @@
 
 
 This face recognition task implements Principal Component Analysis (PCA)
-##################################################################################################################################################################
+
 Principal Component Analysis(PCA)
 
 PCA is nothing but a dimensionality reduction of given data.
@@ -10,7 +10,7 @@ It simply project given data in some direction in order to get maximum variance.
 
 
 ![PCA](https://github.com/ashunitinholkar/Face-Recognition-With-PCA/blob/master/Face%20Recognition%20with%20PCA/images/pca1.png)
-##################################################################################################################################################################
+
 Dataset and its Preparation
 
 Given a csv dataset file containig pixel data and labels for images. These images are 64 X 64 pixel white images.
@@ -39,6 +39,6 @@ Accuracy for this face recognition system is 94% in total
 
 ![Classification Report](https://github.com/ashunitinholkar/Face-Recognition-With-PCA/blob/master/Face%20Recognition%20with%20PCA/images/cf1.png)
 ![Classification Report](https://github.com/ashunitinholkar/Face-Recognition-With-PCA/blob/master/Face%20Recognition%20with%20PCA/images/cf2.png)
-###################################################################################################################################################################
+
 
 
